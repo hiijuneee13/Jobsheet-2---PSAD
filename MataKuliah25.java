@@ -20,7 +20,8 @@ public class MataKuliah25 {
         System.out.println("Kode MK     : " + kodeMK);
         System.out.println("Nama MK     : " + nama);
         System.out.println("SKS         : " + sks);
-        System.out.println("Jumlah Jam  : " + jumlahJam);    }
+        System.out.println("Jumlah Jam  : " + jumlahJam); 
+        System.out.println("-----------------------------------");}
 
     void ubahSKS(int sksBaru) {
         sks = sksBaru;

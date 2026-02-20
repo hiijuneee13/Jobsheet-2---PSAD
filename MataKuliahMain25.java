@@ -7,10 +7,7 @@ public class MataKuliahMain25 {
         mk1.sks = 3;
         mk1.jumlahJam = 6;
 
-        MataKuliah25 mk2 = new MataKuliah25("MK002", 
-                                            "Basis Data", 
-                                            2, 
-                                            4);
+        MataKuliah25 mk2 = new MataKuliah25("MK002", "Basis Data", 2, 4);
 
         mk1.tampilInformasi();
         mk2.tampilInformasi();
