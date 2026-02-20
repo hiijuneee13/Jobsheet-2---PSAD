@@ -5,10 +5,10 @@ public class Mahasiswa25 {
     double ipk;
 
     void tampilkanInformasi() {
-        System.out.println("NIM   : " + nim);
         System.out.println("Nama  : " + nama);
-        System.out.println("Kelas : " + kelas);
+        System.out.println("NIM   : " + nim);
         System.out.println("IPK   : " + ipk);
+        System.out.println("Kelas : " + kelas);
     }
 
     void ubahKelas(String kelasBaru) {
