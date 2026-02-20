@@ -7,8 +7,8 @@ public class MahasiswaMain25 {
         mhs1.ipk = 3.55;
 
         mhs1.tampilkanInformasi();
-        mhs1.ubahKelas("SI 2K ");
-        mhs1.updateIpk(3.6);
+        mhs1.ubahKelas("SI 2K");
+        mhs1.updateIpk(3.60);
         mhs1.tampilkanInformasi();
     }
 }
